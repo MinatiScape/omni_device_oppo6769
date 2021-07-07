@@ -33,6 +33,6 @@ $(call inherit-product, vendor/omni/config/gsm.mk)
 PRODUCT_DEVICE := oppo6769
 PRODUCT_NAME := omni_oppo6769
 PRODUCT_BRAND := alps
-PRODUCT_MODEL := alps
+PRODUCT_MODEL := oppo6769
 PRODUCT_MANUFACTURER := alps
-PRODUCT_RELEASE_NAME := alps alps
+PRODUCT_RELEASE_NAME := alps oppo6769
